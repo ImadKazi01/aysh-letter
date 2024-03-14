@@ -1,3 +1,3 @@
-# aysh-letter
+# Something for Aysh
 
-This is a letter to my loml :)
+This is a little something for my loml :)
