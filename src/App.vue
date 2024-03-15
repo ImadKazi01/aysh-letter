@@ -78,6 +78,12 @@ onMounted(() => {
   right: 50%;
   transform: translate(50%, 10%);
 
+  @media (min-width: 1024px) {
+    top: 40%;
+    right: 50%;
+    transform: translate(50%, 40%);
+  }
+
   h2 {
     font-size: 1.7rem;
     font-weight: 700;
@@ -86,6 +92,10 @@ onMounted(() => {
     transition: color 0.5s;
     padding: 1rem;
     line-height: 1;
+
+    @media (min-width: 1024px) {
+      color: #000;
+    }
   }
 
   .animate {
