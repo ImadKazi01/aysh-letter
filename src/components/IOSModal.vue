@@ -61,7 +61,7 @@ watch(
   justify-content: center;
   gap: 20px;
   width: 100%;
-  max-height: 90vh;
+  max-height: 80vh;
   border-radius: 1rem 1rem 0 0;
   padding: 2rem;
   padding-bottom: 3rem;
@@ -78,7 +78,7 @@ watch(
 .modal-copy {
   margin: 0;
   width: 100%;
-  max-height: 75vh;
+  max-height: 60vh;
   margin-bottom: 1rem;
 }
 
